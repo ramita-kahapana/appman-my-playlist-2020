@@ -6,7 +6,7 @@ I am a customer who want you to build an application about creating playlist (li
 |:---|:---|
 |As a registered user, I am required to login so that I can access the application.|- I can login to the application.<br>- I can see the create button after logged in.|
 |As a registered user, I want to see my playlist so that I can build a list of my song that I like.|- I can see the modal of creating playlist.<br/>-I can add the song to the playlist.<br/> - I can remove the song from the playlist.|
-|As a registered user, I want to see random recommended song so that I can select the difference song.|- I can refresh the song to re-random the song list.|
+|As a registered user, I want to see random recommended song so that I can select the difference song.|- I can refresh the song to re-random the song list.<br/>- I can see the recommended songs only 5 songs per time.|
 |As a registered user, I want to know how long of my playlist so that I can see the total duration of the playlist.|- I can see the total of the duration of the playlist.|
 
 

@@ -27,6 +27,9 @@ const Globalstyle = createGlobalStyle`
     &:visited {
       color: inherit;
     }
+    font-size:20px;
+    display:flex;
+    justify-content:center;
   }
   * {
     scrollbar-width: thin;
